@@ -4,7 +4,7 @@
   
 ## AIM:
 
- The objective of this experiment is to study the Line coding techniques using the trainer kit. 
+ The objective of this experiment is to study the Line coding techniques using the trainer kit.
  
 ## APPARATUS REQUIRED:
 
